@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Notify the commit on Telegram
-        uses: ivgl/FlowersProject@main
+        uses: EverythingSuckz/github-telegram-notify@main
         with:
           bot_token: ${{ 7857754465:AAH97BhQLi5eDsxvK77BzRHXWlVx5BPCCaE }}
           chat_id: ${{ -1002441517237 }}
