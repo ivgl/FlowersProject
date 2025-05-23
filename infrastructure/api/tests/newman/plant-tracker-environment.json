@@ -1,0 +1,54 @@
+{
+  "id": "plant-tracker-env",
+  "name": "Plant Tracker Environment",
+  "values": [
+    {
+      "key": "baseUrl",
+      "value": "http://localhost:3000",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testUsername",
+      "value": "test_user",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testEmail",
+      "value": "test@example.com",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testPassword",
+      "value": "hashed_password123",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testPlantName",
+      "value": "Тестовое растение",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "updatedPlantName",
+      "value": "Обновленное растение",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "testDate",
+      "value": "2024-03-23",
+      "type": "default",
+      "enabled": true
+    },
+    {
+      "key": "plantId",
+      "value": "",
+      "type": "default",
+      "enabled": true
+    }
+  ]
+} 
